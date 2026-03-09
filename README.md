@@ -37,6 +37,8 @@ Key columns include:
 - region
 
 - ## Project Structure
+
+```
 Optimizing-IT-Support-Team-Performance-Analytics
 │
 ├── data
@@ -57,6 +59,7 @@ Optimizing-IT-Support-Team-Performance-Analytics
 │   └── week8.txt
 │
 └── README.md
+```
 
 ## Tools Used
 
@@ -75,4 +78,4 @@ The analysis will help identify patterns in IT support operations and provide in
 - Support workload distribution
 - Opportunities to improve IT service management
 
-- 
+
