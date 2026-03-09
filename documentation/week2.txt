@@ -1,1 +1,7 @@
 Week 2: Data understanding and initial data exploration.
+
+In the second week, the selected dataset was explored in detail. The dataset structure was analyzed to understand the different columns, data types, and number of records.
+
+Key attributes such as ticket priority, issue category, resolution time, and ticket status were examined. Initial observations were made to understand patterns and trends within the dataset.
+
+This step helped in identifying important variables that would be useful for analyzing IT support team performance. The main objective of this week was to gain a clear understanding of the dataset before performing data cleaning and transformation.
