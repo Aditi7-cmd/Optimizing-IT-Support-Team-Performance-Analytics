@@ -1,0 +1,5 @@
+Week 5: KPI Identification
+
+Key Performance Indicators (KPIs) were identified for evaluating IT support team performance. Important KPIs include average resolution time, number of tickets resolved, ticket priority distribution, and issue categories.
+
+These KPIs help measure efficiency and productivity of the IT support team.
