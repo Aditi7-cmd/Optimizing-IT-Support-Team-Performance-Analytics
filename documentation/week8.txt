@@ -1,0 +1,5 @@
+Week 8: Final Report and Project Completion
+
+In the final week, the dashboard and analysis were reviewed. Key insights and recommendations were documented. 
+
+The project demonstrated how data analytics and Power BI can help optimize IT support team performance and improve decision making.
