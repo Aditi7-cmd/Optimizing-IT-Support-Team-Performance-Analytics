@@ -1,0 +1,5 @@
+Week 4: Data Transformation
+
+In week four, the dataset was transformed using Power BI. Additional calculated columns were created to better understand ticket resolution time and priority levels.
+
+The dataset was structured properly to prepare it for dashboard development. This step helped in making the dataset more analytical and ready for visualization.
