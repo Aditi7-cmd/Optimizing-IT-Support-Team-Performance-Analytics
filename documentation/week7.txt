@@ -1,0 +1,5 @@
+Week 7: Insights and Analysis
+
+Data from the dashboard was analyzed to identify patterns and trends. Key insights were derived from the visualizations such as which issue categories occur most frequently and how ticket priorities affect resolution time.
+
+This analysis helps organizations improve support efficiency.
