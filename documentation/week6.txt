@@ -1,0 +1,5 @@
+Week 6: Power BI Dashboard Development
+
+In this week, the Power BI dashboard was designed. Various visualizations such as bar charts, pie charts, and KPI cards were created to represent IT support performance.
+
+The dashboard provides insights into ticket distribution, resolution times, and performance trends.
