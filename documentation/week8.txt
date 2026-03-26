@@ -1,5 +1,4 @@
-Week 8: Final Report and Project Completion
 
-In the final week, the dashboard and analysis were reviewed. Key insights and recommendations were documented. 
+WEEK 8 – Dashboard & Data Visualization
 
-The project demonstrated how data analytics and Power BI can help optimize IT support team performance and improve decision making.
+In Week 8, we focused on building interactive dashboards using Power BI. We created various visuals such as bar charts, pie charts, line charts, KPI cards, and tables to represent insights effectively. We also used slicers to filter data dynamically and conditional formatting to highlight important values. The goal was to convert raw data into meaningful insights that can support decision-making. We also learned how to design dashboards in a clean and structured way to improve readability and user experience.
