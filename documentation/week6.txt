@@ -1,5 +1,3 @@
-Week 6: Power BI Dashboard Development
+WEEK 6 – Data Transformation & Power Query
 
-In this week, the Power BI dashboard was designed. Various visualizations such as bar charts, pie charts, and KPI cards were created to represent IT support performance.
-
-The dashboard provides insights into ticket distribution, resolution times, and performance trends.
+In Week 6, we focused on data cleaning and transformation using Power Query. We worked on handling missing values, removing duplicates, correcting data types, and standardizing the dataset. We also explored column quality, column distribution, and column profiling to understand the data better. The ETL (Extract, Transform, Load) process was introduced, where data is extracted from sources, transformed in Power Query, and then loaded into Power BI. This step ensured that the dataset is clean and ready for further analysis and visualization.
