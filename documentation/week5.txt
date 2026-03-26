@@ -1,5 +1,3 @@
-Week 5: KPI Identification
+📘 WEEK 5 – Data Modeling
 
-Key Performance Indicators (KPIs) were identified for evaluating IT support team performance. Important KPIs include average resolution time, number of tickets resolved, ticket priority distribution, and issue categories.
-
-These KPIs help measure efficiency and productivity of the IT support team.
+We learned how to structure data properly for analysis using data modeling techniques in Power BI. We understood the concept of Fact Table and Dimension Tables, where the fact table contains transactional and measurable data like resolution time and CSAT score, and dimension tables contain descriptive attributes like region, channel, and priority. We implemented a star schema, where the fact table is placed at the center and connected to multiple dimension tables. We also learned about relationships between tables, including one-to-many and many-to-one relationships, and the concept of cardinality. This helped in building a structured and optimized data model for better analysis.
