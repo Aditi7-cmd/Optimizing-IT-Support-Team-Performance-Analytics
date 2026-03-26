@@ -1,5 +1,3 @@
-Week 7: Insights and Analysis
+WEEK 7 – DAX & Measures
 
-Data from the dashboard was analyzed to identify patterns and trends. Key insights were derived from the visualizations such as which issue categories occur most frequently and how ticket priorities affect resolution time.
-
-This analysis helps organizations improve support efficiency.
+In Week 7, we learned about DAX (Data Analysis Expressions), which is used to create calculated measures in Power BI. We understood the difference between implicit and explicit measures and learned how to create custom measures using functions like SUM, AVERAGE, COUNT, and CALCULATE. The concept of filter context was introduced, and we learned how CALCULATE modifies filters to perform conditional analysis. We also created business-related metrics such as total tickets, average resolution time, and CSAT score. This helped in performing dynamic and real-time analysis.
